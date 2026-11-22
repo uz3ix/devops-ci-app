@@ -1,3 +1,4 @@
+
 FROM python:3.12-slim
 
 LABEL org.opencontainers.image.source="https://github.com/uz3ix/devops-ci-app"
